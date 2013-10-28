@@ -5,10 +5,10 @@ This simple WordPress plugin will allow you to paste Github Gist urls directly i
 
 # Useage
 
-Paste a gist link ino a blog post or page and it will be automatically embeded for you.
+Paste a gist link into a WordPress post or page and it will be automatically embeded for you.
 
 https://gist.github.com/stuartduff/7128278
 
-IF you gist has multiple files you can choose a single file by using the follwing URL format.
+If your gist has multiple files you can choose only a single file by using the following URL format in your WordPress post or page.
 
 https://gist.github.com/stuartduff/7128278?file=embed-gist.php
