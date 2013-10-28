@@ -1,7 +1,7 @@
 WordPress Github Gist Embed
 ===========================
 
-This simple WordPress plugin will allow you to paste Github Gist urls directly into your WordPress post editor and they will display in the Gist codebox automatically for you in your spote.
+This simple WordPress plugin will allow you to paste Github Gist urls directly into your WordPress post editor and they will display in the Gist codebox automatically for you in your site's content.
 
 # Useage
 
