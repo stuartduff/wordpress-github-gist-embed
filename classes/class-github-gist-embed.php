@@ -21,7 +21,7 @@ class Github_Gist_Embed {
 		load_plugin_textdomain( 'github-gist-embed', false, dirname( plugin_basename( __FILE__ ) ) . '/lang/' );
 
 		// Initiate plugin github gist embed function
-        add_action( 'init', array( &$this, 'register_github_gist_embed' ) );
+		add_action( 'init', array( &$this, 'register_github_gist_embed' ) );
  
     }
 
