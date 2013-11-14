@@ -3,7 +3,7 @@
 Plugin Name: Github Gist Embed
 Plugin URI: http://stuartduff.com/
 Version: v1.0.0
-Author: <a href="http://www.ronalfy.com/">Stuart Duff</a>
+Author: <a href="http://stuartduff.com/">Stuart Duff</a>
 Description: This plugin adds the ability to embed github gists by adding their URL to your WordPress content editor.
 
 Copyright 2013  Stuart Duff  (email : no-reply@stuartduff.com )
